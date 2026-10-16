@@ -1,7 +1,7 @@
 app_name = "erpnext_paclibre"
 app_title = "Erpnext Paclibre"
 app_publisher = "ryc"
-app_description = "paclibre"
+app_description = "pac"
 app_email = "alan@restauranteycafe.com"
 app_license = "mit"
 

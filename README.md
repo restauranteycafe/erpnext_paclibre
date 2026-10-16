@@ -1,6 +1,6 @@
 ### Erpnext Paclibre
 
-paclibre
+pac
 
 ### Installation
 

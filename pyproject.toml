@@ -3,7 +3,7 @@ name = "erpnext_paclibre"
 authors = [
     { name = "ryc", email = "alan@restauranteycafe.com"}
 ]
-description = "paclibre"
+description = "pac"
 requires-python = ">=3.14"
 readme = "README.md"
 dynamic = ["version"]
