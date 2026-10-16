@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="ACC-SINV-2026" Folio="4" Fecha="2026-10-02T19:06:22" Sello="NpmHYAq/VdG3KxOaEkgaUIjxeNkvSUT7ZB25yEHQDc3xQ3c5cBpfftnquYLKeqJikPjLNFizWbvyLj5u93MbcXMqdjvutZuqMMSefcH42E17ep4pSAAfACPwlQYFvEpE8hebxn2BKhaGada1gnLMtbu0TUuhvxWsCvROvGZqUbcQcgEBEPcQ6Crd9DxWV0aemfQp43nmn/tA4oXhaXoOLQBnJC15MLtQL+hEW48oQOHUv7+7W2HIydyPSVDgoeP7jWm+Z4v7zBDi8G1BaGt4+2epk0AWFeLlrKOFczucrUidTptF6SGldWojB4U6TokUU9NTpQFoSesxuOE1fvGDXA==" FormaPago="01" NoCertificado="30001000000500003294" Certificado="MIIF0TCCA7mgAwIBAgIUMzAwMDEwMDAwMDA1MDAwMDMyOTQwDQYJKoZIhvcNAQELBQAwggErMQ8wDQYDVQQDDAZBQyBVQVQxLjAsBgNVBAoMJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExGjAYBgNVBAsMEVNBVC1JRVMgQXV0aG9yaXR5MSgwJgYJKoZIhvcNAQkBFhlvc2Nhci5tYXJ0aW5lekBzYXQuZ29iLm14MR0wGwYDVQQJDBQzcmEgY2VycmFkYSBkZSBjYWxpejEOMAwGA1UEEQwFMDYzNzAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBDSVVEQUQgREUgTUVYSUNPMREwDwYDVQQHDAhDT1lPQUNBTjERMA8GA1UELRMIMi41LjQuNDUxJTAjBgkqhkiG9w0BCQITFnJlc3BvbnNhYmxlOiBBQ0RNQS1TQVQwHhcNMjMwNTA5MTg0MDA5WhcNMjcwNTA4MTg0MDA5WjCBxjEdMBsGA1UEAxMUUk9EUklHTyBLSVRJQSBDQVNUUk8xHTAbBgNVBCkTFFJPRFJJR08gS0lUSUEgQ0FTVFJPMR0wGwYDVQQKExRST0RSSUdPIEtJVElBIENBU1RSTzELMAkGA1UEBhMCTVgxJTAjBgkqhkiG9w0BCQEWFnBydWViYXNAcHJ1ZWJhcy5nb2IubXgxFjAUBgNVBC0TDUtJQ1I2MzAxMjBOWDMxGzAZBgNVBAUTEktJQ1I2MzAxMjBIR1RUU0QwNTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIU1KVXHXr2hmznuATnB74Y8bbf2FZrmx/5JKr9HWp4Fk/OIHVW0MlsuKRFGd+/y0hmMejxvlqfxZo5rnepSedNl6wLY6hBFc0ij5vlk+sOyQuhS+YMi3aP/TEb5Nj5mpdLuiOnxl1irZ57TRPt0aGDTpJGF4q0f9g2wQy8sGVBaiN/ZqWsQIbYbRjXBIxutg121gPahd5VtO7rU/A3MdyEqFo8W5RoNtAP2gQXwmTZ/6WskT+dXfH0c0Qk1sCpPYcqNua7RIDq2ifeKZ4fNM06apMKMte80ptpoUdXvaUsvHf9soCsL7qa0HZoYBajaVLchHIOq+fLC19IDO30sLbsCAwEAAaNPME0wDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCA9gwEQYJYIZIAYb4QgEBBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjANBgkqhkiG9w0BAQsFAAOCAgEABn1U8+oeyNtrnTTbIcwFUrLh0elC2/wDjtL3qBt6qIme3ygy8yw6ddTRHQ285wkB5bvNAlLL8XTJX+KwZRaU2vuYn0JzZqmvzbIlAV1Qdb9z9fjcHQwGXi1BPk1JaFwcRWvgF2O/iLwX9RnRtX7gOmIS/bsBTcmhMnGXnxHmFiqyc7vxpiGnV0gqtY53FCZX1m333TnLKMURvlXyaFY4IbHt7uteq3hAH7qmoF1dpBNVGgObiSXc9somP0cCYmvONZZjhfg5pcXEBqYiPGOKCmYcr/lgSCetaDjtfCU9Pojmo1+2NuMn9U3T3wVyTi3s6YeHLON9qHLOizRAIpxOof57XX0OXwzoaRdSBuuxbQt4ro56l/cOhZEQIen5RFmivDMi4s1lCMW2qtbQQ4WaXiLa8hvwjCQONvm25Bq6sycP5iKxAfEP1L86T+VRrUA1FBeZGmPqiyIrmrmKtFwnVZWFCMtf5TYU4V3LmLlmdN3hWbrq6ZT20p7mTz5UF30iahZADnd69YhTaLgcUirCleiNBq07hn75moYRCuzgTFPo0A/cWLOfYOgfimex46oF0YmCyBf2DyswD7nVZn9L2vvCn10IQ9Xy2WDs6kJe4vHASwJbWKL4PX1BhGWLswqDCqcWiCrIMLz7dQkwzZ5DA3f1zq5Zr7QElBOTRJwEFGM=" SubTotal="507.00" Moneda="MXN" Total="588.12" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="44716" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Rfc="KICR630120NX3" Nombre="RODRIGO KITIA CASTRO" RegimenFiscal="626"/>
+  <cfdi:Receptor Rfc="XAXX010101000" Nombre="MYSTIC PRISMA" DomicilioFiscalReceptor="44716" RegimenFiscalReceptor="626" UsoCFDI="G03"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="52151505" NoIdentificacion="47101512" Cantidad="3" ClaveUnidad="XBX" Descripcion="AGITADOR DE MADERA 19 CM. 1 KILO" ValorUnitario="169.0" Importe="507.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="507.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="81.12"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="81.12">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="507.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="81.12"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+</cfdi:Comprobante>
